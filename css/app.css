@@ -1,0 +1,130 @@
+@font-face {
+	font-family:'CenturyGothic';
+	src:url('../fonts/Centurygothic.eot');
+	src:local(☺),
+		url('../fonts/Centurygothic.woff') format('woff'),
+		url('../fonts/Centurygothic.ttf') format('truetype'),
+		url('../fonts/Centurygothic.svg#webfontd60hyItJ') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+
+body {font-family:'CenturyGothic';color:#333;}
+h1, h2, h3, h4, h5, h6 {font-family:'CenturyGothic';text-transform:uppercase;}
+
+header {text-align:center;}
+header h1 span {display:block;text-indent:-999999px;max-height:0;}
+header nav {background:#cccac8;}
+header nav li {display:inline-block;list-style-type:none;text-transform:uppercase;color:#fff;font-size:18px;position:relative;}
+header nav li a {color:#fff;padding:15px;text-transform:uppercase;letter-spacing:1px;display:block;}
+header nav li:hover a, header nav li.active a {color:#1caee2;}
+header nav li:hover a:after, header nav li.active a:after {content:'';display:block;position:absolute;width:110px;height:5px;background:#1caee2;left:50%;margin-left:-55px;bottom:-5px;}
+
+#actualite {background:url('../img/bg-actualite.jpg') center center no-repeat;background-size:cover;padding:40px 0;}
+.actualites {background:#1caee2;border-radius:50%;display:block;width:450px;height:450px;text-align:center;padding:70px 50px;color:#fff;}
+.actualites h2 {font-size:30px;}
+.actualites h3 {font-size:28px;max-width:300px;margin:0 auto;}
+.actualites p {font-size:14px;max-width:300px;margin:0 auto;}
+
+.swiper-container {width:100%;height:250px;background:url('../img/bg-actualite.png') center center no-repeat;padding:40px 0;}
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev {background:url('../img/next.png') center center no-repeat;right:-10px;}
+.swiper-button-prev, .swiper-container-rtl .swiper-button-next {background:url('../img/prev.png') center center no-repeat;left:-10px;}
+
+#top-of-page {background:url('../img/bg-top-of-page.jpg') center center no-repeat;background-size:cover;padding:40px 0;}
+#top-of-page h2 {color:#333;font-size:36px;line-height:36px;}
+#top-of-page h2:first-line {font-size:24px;color:#1caee2;}
+
+#middle-of-page {background:#f0efee;padding:40px 0;}
+.image-radius {width:305px;height:305px;max-width:100%;max-height:100%;border-radius:50%;margin:0 auto;display:block;overflow:hidden;}
+.image-radius img {width:auto;height:100%;}
+.text-middle {display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-align:center;-webkit-align-items:center;-webkit-box-align:center;align-items:center;}
+
+.page-cours #top-of-page {background-image:url('../img/bg-cours.jpg');}
+.page-contact #top-of-page {background-image:url('../img/bg-contact.jpg');}
+.page-livre-d-or #top-of-page {background-image:url('../img/bg-livre-d-or.jpg');}
+.page-seminaires #top-of-page {background-image:url('../img/bg-seminaires-2.jpg');}
+.page-actualite #top-of-page {background-image:none;text-align:center;}
+
+.page-livre-d-or h4 {font-family:'Nothing You Could Do',cursive;font-size:24px;text-transform:none;}
+
+#disciplines {padding:40px 0;}
+#disciplines h2 {color:#1caee2;font-size:18px;line-height:20px;text-align:center;margin-bottom:50px;}
+#disciplines h2:first-line {font-size:72px;}
+#disciplines h2 span {font-size:13px;}
+.disciplines {background:#f0efee;padding:50px 0;}
+.discipline {background:url('../img/bg-pilates.jpg') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.8);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline span h3 {font-size:24px;padding-top:75px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline span p {display:block;max-height:0;max-width:210px;font-size:12px;overflow:hidden;margin:0 auto;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline:hover {padding:0;}
+.discipline:hover > span {background:rgba(28, 174, 227, 0.9);width:305px;height:305px;}
+.discipline:hover span h3 {padding-top:50px;color:#fff;}
+.discipline:hover > span p {max-height:200px;color:#fff;}
+.disciplines .columns:nth-child(2) .discipline {background-image:url('../img/bg-stretching-postural.jpg');}
+.disciplines .columns:nth-child(2) .discipline span h3 {padding-top:68px;}
+.disciplines .columns:nth-child(2) .discipline:hover > span h3 {padding-top:40px;}
+.disciplines .columns:nth-child(3) .discipline {background-image:url('../img/bg-yoga.jpg');}
+
+#types-de-cours {padding:40px 0;}
+#types-de-cours h2 {color:#1caee2;font-size:18px;line-height:20px;text-align:center;margin-bottom:50px;}
+#types-de-cours h2:first-line {font-size:72px;}
+#types-de-cours h2 span {font-size:13px;}
+.types-de-cours {background:#f0efee;padding:50px 0;}
+.cours {background:url('../img/bg-pilates.jpg') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.cours span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.8);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.cours span h3 {font-size:24px;padding-top:75px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.cours span p {display:block;max-height:0;max-width:210px;font-size:12px;overflow:hidden;margin:0 auto;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.cours:hover {padding:0;}
+.cours:hover > span {background:rgba(204, 202, 200, 0.9);width:305px;height:305px;}
+.cours:hover span h3 {padding-top:50px;color:#fff;}
+.cours:hover > span p {max-height:200px;color:#fff;}
+.types-de-cours .columns:nth-child(2) .cours {background-image:url('../img/bg-yoga.jpg');}
+
+#contact {padding:40px 0 0 0;}
+#contact h2 {color:#1caee2;font-size:18px;line-height:20px;text-align:center;margin-bottom:50px;}
+#contact h2:first-line {font-size:72px;}
+#contact h2 span {font-size:13px;}
+#contact .telephone {text-align:center;color:#1caee2;font-size:44px;letter-spacing:2px;}
+#contact .horaires p {font-size:18px;line-height:20px;text-align:center;text-transform:uppercase;letter-spacing:1px;}
+#contact .columns:last-of-type {position:relative;min-height:205px;}
+#contact .columns:last-of-type img {position:absolute;bottom:-44px;z-index:10;}
+
+#formulaire textarea {height:175px;resize:none;}
+#formulaire input.erreur, #formulaire textarea.erreur {
+	border:1px solid #CC3300;
+}
+
+textarea {resize:none;height:150px;}
+#top-of-page button {background:#cccac8;padding:20px;text-transform:uppercase;font-family:inherit;color:#333;}
+#top-of-page button:hover, #top-of-page button:focus {background:#1caee2;color:#fff;}
+
+#map-canvas {width:100%;height:570px;}
+
+footer {background:#cccac8;padding:40px 0;}
+footer .columns:last-of-type {border-left:2px solid #333;}
+footer .columns:last-of-type p {text-transform:uppercase;}
+footer .columns:last-of-type p:first-of-type {font-size:30px;color:#2dafe5;text-transform:none;}
+footer .columns:last-of-type p:first-of-type span {color:#fff;}
+quote {font-family:'Nothing You Could Do',cursive;font-size:24px;color:#333;text-align:center;display:block;}
+quote span {display:block;text-align:right;}
+
+.newsletter {background:#1caee2;padding:10px;text-align:center;}
+.newsletter input {display:inline;width:auto;height:auto;border:none;padding:5px 10px;min-width:220px;font-size:14px;font-family:inherit;margin:0;}
+.newsletter button {background:#333;font-size:8px;text-transform:uppercase;text-align:center;width:25px;height:25px;line-height:25px;border-radius:50%;color:#fff;margin-left:3px;vertical-align:3px;}
+
+.wait { display:none; }
+#div_success {
+	border: 2px solid #178039;
+	margin-bottom: 10px;
+}
+#div_success h3, #div_success p {
+	color: #178039;
+}
+
+#div_erreur {
+	border: 2px solid #A20109;
+	margin-bottom: 10px;
+}
+#div_erreur h3, #div_erreur p {
+	color: #A20109;
+}
