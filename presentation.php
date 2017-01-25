@@ -69,7 +69,34 @@
 					</div>
 				</div>
 			</section>
-			
+			<section id="types-de-cours">
+				<div class="row">
+				    <div class="large-4 medium-4 small-12 columns">
+						<h3>ACTIVATION <br>CARDIO-TRAINING</h3>
+						<p>
+						   Le cardio training en privilégiant les programmes d’endurance adaptés à chacun.<br>
+						   Ici l’approche posturale va de soi par l’utilisation des tapis de marche, des elliptiques, du VARIO et du CROSS OVER.
+						   <br><br>Autant d’exercices qui mettent en jeu l’équilibration. Laquelle sollicite globalement la musculature posturale.
+						</p>  
+					</div>
+					<div class="large-4 medium-4 small-12 columns">
+						<h3>RESTRUCTURATION POSTURALE</h3>
+						<p>
+						  Dans les programmes de bases figure systématiquement un cours vidéo d’une technique posturale. Au choix : stretching – pilate – yoga.<br><br>
+						  La démonstration est virtuelle mais le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
+						  Ce dernier veillant à placer la respiration lors de chaque phase du mouvement.
+						</p>  
+					</div>
+					<div class="large-4 medium-4 small-12 columns">
+					    <h3>TONIFICATION MUSCULAIRE</h3>
+						<p>
+						  Là encore l’approche posturale est déterminante. <br><br>
+						  En effet, dans l’objectif d’une régulation tonique nous proposons des programmes où est mise en avant la tonification de groupes musculaires qui interviennent dans la posture. <br><br>
+						  Tous les muscles faisant partie de la chaine musculaire postérieure. 
+						</p>
+					</div>
+				</div>
+			</section>
 			
 			<?php include('inc/footer.php'); ?>
 			
