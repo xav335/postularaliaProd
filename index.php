@@ -70,18 +70,18 @@
 			
 			<section id="disciplines">
 				<h2>
-					3<br/>
+					3<br/><br/><br/>
 					disciplines<br/>
-					<span>(pilates, stretching postural, yoga)</span>
+					<span>(Activation cardio-vasculaire, Restructuration posturale, Tonification musculaire)</span>
 				</h2>
 				<div class="disciplines">
 					<div class="row">
 						<div class="large-4 medium-4 small-12 columns">
 							<div class="discipline">
 								<span>
-									<h3>Pilates</h3>
+									<h3>Cardio Training</h3>
 									<p>
-										Cette méthode a pour objectif le développement des muscles profonds, l'amélioration de la posture, l'équilibrage musculaire et l'assouplissement articulaire, pour un entretien, une amélioration ou une restauration des fonctions physiques.
+										Reprendre son souffle grâce à une ambiance décontractée sans complexe. Courir, marcher, pédaler, ramer… oui mais à son rythme.
 									</p>
 								</span>
 							</div>
@@ -90,11 +90,11 @@
 							<div class="discipline">
 								<span>
 									<h3>
-										Stretching<br/>
-										postural
+										Restructuration<br/>
+										posturale
 									</h3>
 									<p>
-										Cette méthode a pour objectif le développement des muscles profonds, l'amélioration de la posture, l'équilibrage musculaire et l'assouplissement articulaire, pour un entretien, une amélioration ou une restauration des fonctions physiques.
+									   Des cours virtuels variés et choisis : Pilate – stretching – yoga, sont les activités de restructuration posturale. Les démonstrations sont virtuelles mais le coach est là.	
 									</p>
 								</span>
 							</div>
@@ -102,9 +102,9 @@
 						<div class="large-4 medium-4 small-12 columns">
 							<div class="discipline">
 								<span>
-									<h3>Yoga</h3>
+									<h3>Tonification</br> Musculaire</h3>
 									<p>
-										Cette méthode a pour objectif le développement des muscles profonds, l'amélioration de la posture, l'équilibrage musculaire et l'assouplissement articulaire, pour un entretien, une amélioration ou une restauration des fonctions physiques.
+									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. 	
 									</p>
 								</span>
 							</div>
@@ -113,46 +113,9 @@
 				</div>
 			</section>
 			
-			<section id="types-de-cours">
-				<h2>
-					2<br/>
-					types de cours<br/>
-					<span>(classique, séminaire)</span>
-				</h2>
-				<div class="types-de-cours">
-					<div class="row">
-						<div class="large-6 medium-6 small-12 columns">
-							<div class="cours">
-								<span>
-									<h3>Classique</h3>
-									<p>
-										Cette méthode a pour objectif le développement des muscles profonds, l'amélioration de la posture, l'équilibrage musculaire et l'assouplissement articulaire, pour un entretien, une amélioration ou une restauration des fonctions physiques.
-									</p>
-								</span>
-							</div>
-						</div>
-						<div class="large-6 medium-6 small-12 columns">
-							<div class="cours">
-								<span>
-									<h3>
-										Séminaire
-									</h3>
-									<p>
-										Cette méthode a pour objectif le développement des muscles profonds, l'amélioration de la posture, l'équilibrage musculaire et l'assouplissement articulaire, pour un entretien, une amélioration ou une restauration des fonctions physiques.
-									</p>
-								</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
 			
 			<section id="contact">
-				<h2>
-					1<br/>
-					nouveau souffle<br/>
-					<span>(posturalia)</span>
-				</h2>
+				
 				<div class="row" data-equalizer>
 					<div class="large-6 medium-6 small-12 columns" data-equalizer-watch>
 						<div class="telephone">05 57 57 57 00</div>

@@ -218,7 +218,7 @@
 	}
 	
 	function getMktime( $date, $format_fr=true, $debug=false ) {
-		$mktime = mktime();
+		$mktime = time();
 		$tab = explode( " ", $date );
 		
 		// ---- Date + heure ----------------- //

@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.5.38, for debian-linux-gnu (x86_64)
+-- MySQL dump 10.13  Distrib 5.6.21, for osx10.6 (x86_64)
 --
 -- Host: localhost    Database: posturalia
 -- ------------------------------------------------------
--- Server version	5.5.38-0+wheezy1
+-- Server version	5.6.21
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -37,7 +37,7 @@ CREATE TABLE `admin` (
 
 LOCK TABLES `admin` WRITE;
 /*!40000 ALTER TABLE `admin` DISABLE KEYS */;
-INSERT INTO `admin` VALUES (1,'espace','espace33','administrateur'),(2,'admin','admin335','ico');
+INSERT INTO `admin` VALUES (1,'posturalia','posturalia33','administrateur'),(2,'admin','admin335','ico');
 /*!40000 ALTER TABLE `admin` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -146,7 +146,7 @@ CREATE TABLE `goldbook` (
 
 LOCK TABLES `goldbook` WRITE;
 /*!40000 ALTER TABLE `goldbook` DISABLE KEYS */;
-INSERT INTO `goldbook` VALUES (1,'2016-05-30 00:00:00','Franck L','franck_langleron@hotmail.com','blabla',1),(2,'2016-05-11 00:00:00','Stef M','durand@orange.fr','Super!\r\nJ\'aime beaucoup ce que vous faite!\r\nS.',1),(4,'2016-05-09 00:00:00','q','a@a.fr','aaaa',1),(5,'2016-05-07 00:00:00','Jay J.','j@orange.fr','c\'est extra! Des cours fantastiques.\r\nMerci',1);
+INSERT INTO `goldbook` VALUES (1,'2017-01-03 00:00:00','Franck L','franck_langleron@hotmail.com','Club superbe, coach très présent, conseils super !',1),(2,'2016-12-15 00:00:00','Stef M','durand@orange.fr','Club très sympa, personnel très disponible, je conseille !',1);
 /*!40000 ALTER TABLE `goldbook` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -191,7 +191,7 @@ CREATE TABLE `news` (
   `image1` varchar(250) DEFAULT NULL,
   `online` tinyint(4) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id_news`)
-) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -200,7 +200,7 @@ CREATE TABLE `news` (
 
 LOCK TABLES `news` WRITE;
 /*!40000 ALTER TABLE `news` DISABLE KEYS */;
-INSERT INTO `news` VALUES (32,'2016-04-07 00:00:00','Gamme complete des produits solaire','Longue vie soleil,\r\nUni bronze,\r\nGrand soin après soleil,\r\nSctik indice 50 visage,\r\nSpray protestion corps ','/20150812_131403-32.jpg',1),(33,'2016-03-31 00:00:00','Baume Nutri Logic douceur et confort pour le corps','Adoucit et réconforte la peau immédiatement,nourrit la peau durablement,protége la peau toute la journée','',1),(34,'2016-03-05 00:00:00','Minceur Rapide','La solution simple rapide et efficace,\r\ndiminution de l\'aspect visible de la cellulite,\r\nAnti -gras bruleur de  graisses\r\nAnti-eau drainage minceur','',1),(35,'2016-03-03 00:00:00','Poudre soleil et le Gloss été','Effet bronzé naturellement et le gloss pour apporter le coté glamour \r\n','',1),(36,'2016-03-03 00:00:00','Sérum Bioxygene','Hydratation de la peau et  redonne de éclat du teint  pour une peau en pleine forme,défatigue les traits pour un teint frais et reposé\r\nConcentré éclat et vitalité','',1),(37,'2016-03-01 00:00:00','400 ml PROMO Gommage facile et hydrazone corps','GOMMAGE EXFOLIANT ET LE LAIT HYDRAZONE ','',1),(38,'2016-03-04 00:00:00','Hydraderm Energy Cellular','NOUVEL APPAREIL POUR LES SOINS STAR GUINOT','',1);
+INSERT INTO `news` VALUES (39,'2017-01-26 00:00:00','Nouveau site internet','Retrouvez sur notre site internet toutes les informations du club.\r\nN\'hésitez pas à nous contactez par email ou par téléphone pour avoir toutes les informations necessaires.','/internet_company1-.jpg',1);
 /*!40000 ALTER TABLE `news` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -318,4 +318,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2016-08-30 18:11:02
+-- Dump completed on 2017-01-25 19:28:43

@@ -28,7 +28,9 @@
 				<div class="row">
 					<div class="large-12 columns">
 						<h2>L'actualité<br/>de Posturalia</h2>
-						<p>Phasellus in sapien facilisis, eleifend dolor nec, sodales elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas eget dapibus nunc.</p>
+						<p>
+						  Retrouvez ici toute l'actualité et les évènements du club.
+						</p>
 					</div>
 				</div>
 			</section>
@@ -84,7 +86,7 @@
 		
 		<script>
 			$(document).ready(function(){
-				$('nav li:nth-child(5)').addClass('active');
+				$('nav li:nth-child(4)').addClass('active');
 			});
 		</script>
 	</body>
