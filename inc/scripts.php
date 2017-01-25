@@ -8,8 +8,8 @@
 		<script src="/js/vendor/fancybox/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 		<script src="/js/vendor/fancybox/jquery.fancybox-media.js?v=1.0.6"></script>
 		
-		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-		
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnN0jDmzON1NGH7piEq_rrDK17xow1_HI&v=3.exp"></script>
+<!-- 		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script> -->
 		<script>
 			
 			$(document).ready(function(){
@@ -109,6 +109,10 @@
 							icon: 'img/marker.png',
 							title: 'Posturalia'
 						});
+						 marker.addListener('click', function() {
+							 //window.location.href = 'http://tinyurl.com/zsf4gqo';
+							 window.open('https://goo.gl/68dZJA','_blank');
+							 });
 					}
 					
 					google.maps.event.addDomListener( window, 'load', initialize );

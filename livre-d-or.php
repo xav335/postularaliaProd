@@ -117,8 +117,9 @@
 					</div>
 					<div class="large-6 medium-6 small-12 columns">
 						<h2>Livre d'Or<br/>Posturalia</h2>
-						<p>Phasellus in sapien facilisis, eleifend dolor nec, sodales elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas eget dapibus nunc.</p>
-						
+						<p>
+						  Retrouvez ici les témoignages de nos adhérents et n'hésitez à laissez le votre.
+						</p>
 						<div id="div_success" class="large-12 medium-12 small-12 columns <?=$affichage_success?>">
 							<h3>Merci!</h3>
 							<p>Votre témoignage a été enregitré avec succès!</p>
@@ -190,7 +191,7 @@
 			
 			$(document).ready(function(){
 				
-				$('nav li:nth-child(6)').addClass('active');
+				$('nav li:nth-child(5)').addClass('active');
 				
 				// ---- Validation du formulaire ---------------------------- //
 				if ( 1 == 1 ) {

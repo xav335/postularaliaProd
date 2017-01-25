@@ -140,7 +140,7 @@
 			</section>
 			
 			<section id="contact">
-				<div class="row"
+				<div class="row">
 					<div class="large-12 columns">
 						<div class="telephone">05 57 57 57 00</div>
 						<div class="horaires">
@@ -164,7 +164,7 @@
 			
 			$(document).ready(function(){
 				
-				$('nav li:nth-child(7)').addClass('active');
+				$('nav li:nth-child(6)').addClass('active');
 				
 				// ---- Validation du formulaire ---------------------------- //
 				if ( 1 == 1 ) {

@@ -54,8 +54,8 @@ header nav li:hover a:after, header nav li.active a:after {content:'';display:bl
 .disciplines {background:#f0efee;padding:50px 0;}
 .discipline {background:url('../img/bg-pilates.jpg') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .discipline span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.8);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
-.discipline span h3 {font-size:24px;padding-top:75px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
-.discipline span p {display:block;max-height:0;max-width:210px;font-size:12px;overflow:hidden;margin:0 auto;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline span h3 {font-size:22px;padding-top:75px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline span p {display:block;max-height:0;max-width:210px;font-weight:bold;font-size:13px;overflow:hidden;margin:0 auto;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .discipline:hover {padding:0;}
 .discipline:hover > span {background:rgba(28, 174, 227, 0.9);width:305px;height:305px;}
 .discipline:hover span h3 {padding-top:50px;color:#fff;}

@@ -18,48 +18,58 @@
 						
 					</div>
 					<div class="large-6 medium-6 small-12 columns">
-						<h2>Présentation<br/>du centre Posturalia</h2>
-						<p>Phasellus in sapien facilisis, eleifend dolor nec, sodales elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas eget dapibus nunc.</p>
-						<p>Pellentesque gravida pulvinar sapien eu rhoncus. Sed quis lectus sapien. Proin rutrum leo ut eros feugiat dignissim. Donec semper nec tellus a venenatis. Fusce et vestibulum lectus. Nulla aliquet nisi vitae ante tincidunt, ac faucibus urna laoreet. Etiam a aliquam sapien. Vestibulum condimentum nulla non euismod consequat.</p>
-						<p>Pellentesque gravida pulvinar sapien eu rhoncus. Sed quis lectus sapien. Proin rutrum leo ut eros feugiat dignissim. Donec semper nec tellus a venenatis. Fusce et vestibulum lectus. Nulla aliquet nisi vitae ante tincidunt, ac faucibus urna laoreet. Etiam a aliquam sapien. Vestibulum condimentum nulla non euismod consequat.</p>
+						<h2>Présentation<br/>du centre de remise en forme Posturalia</h2>
+						<p>Posturalia est une salle de sport apparemment semblable à beaucoup d’autres. <br>
+						Cependant une approche « POSTURALE » des activités habituellement proposées représente ici la différence essentielle.  <br>
+						Cette approche nous amène à faire une sélection dans les activités. 
+						Certaines sont privilégiées, d’autres sont moins utilisées, voire même supprimées de nos équipements.  <br>
+						Nous sommes une majorité à vouloir pratiquer une activité physique dans le but d’améliorer notre santé.  <br> <br>
+						Mais de quoi parlons-nous quand il s’agit d’activité physique ?</p>
 					</div>
 				</div>
 			</section>
 			
-			<section id="middle-of-page">
-				<div class="row" data-equalizer>
-					<div class="large-4 medium-4 small-12 columns" data-equalizer-watch>
-						<div class="image-radius">
-							<img src="img/bg-yoga.jpg" />
+			<section id="disciplines">
+				
+				<div class="disciplines">
+					<div class="row">
+						<div class="large-4 medium-4 small-12 columns">
+							<div class="discipline">
+								<span>
+									<h3>Cardio Training</h3>
+									<p>
+										Reprendre son souffle grâce à une ambiance décontractée sans complexe. Courir, marcher, pédaler, ramer… oui mais à son rythme.
+									</p>
+								</span>
+							</div>
 						</div>
-					</div>
-					<div class="large-4 medium-4 small-12 columns text-middle" data-equalizer-watch>
-						<div>
-							<h3>Pilates</h3>
-							<p>Cette méthode a pour objectif le développement des muscles profonds, l'amélioration de la posture, l'équilibrage musculaire et l'assouplissement articulaire, pour un entretien, une amélioration ou une restauration des fonctions physiques.</p>
+						<div class="large-4 medium-4 small-12 columns">
+							<div class="discipline">
+								<span>
+									<h3>
+										Restructuration<br/>
+										posturale
+									</h3>
+									<p>
+									   Des cours virtuels variés et choisis : Pilate – stretching – yoga, sont les activités de restructuration posturale. Les démonstrations sont virtuelles mais le coach est là.	
+									</p>
+								</span>
+							</div>
 						</div>
-					</div>
-					<div class="large-4 medium-4 small-12 columns" data-equalizer-watch>
-						<div class="image-radius">
-							<img src="img/bg-stretching-postural.jpg" />
+						<div class="large-4 medium-4 small-12 columns">
+							<div class="discipline">
+								<span>
+									<h3>Tonification</br> Musculaire</h3>
+									<p>
+									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. 	
+									</p>
+								</span>
+							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 			
-			<section id="types-de-cours">
-				<div class="row">
-					<div class="large-6 medium-6 small-12 columns">
-						<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
-						<p>Maecenas eu justo tincidunt, gravida neque eget, mollis est. Praesent consectetur mauris ultricies turpis mattis, congue bibendum diam suscipit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer ut lacinia erat.</p>
-						<p><strong>In ut nisl ac diam mattis sagittis.</strong> Fusce lacinia, mi pellentesque venenatis mattis, tortor justo rutrum felis, blandit faucibus purus velit id nisi. Aenean et odio at nisl iaculis venenatis. Mauris quis dui velit. Praesent semper lacus vel quam tristique, ac convallis nulla mollis. Nunc ac sapien vitae orci feugiat mollis. Etiam quis felis quis orci lobortis dignissim. Nam finibus nunc at hendrerit condimentum. Nulla eleifend sollicitudin metus vel pulvinar. Etiam sed semper felis. Aliquam varius ipsum at venenatis venenatis. Phasellus libero ipsum, finibus a magna vel, dictum pellentesque quam.</p>
-					</div>
-					<div class="large-6 medium-6 small-12 columns">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu justo tincidunt, gravida neque eget, mollis est. Praesent consectetur mauris ultricies turpis mattis, congue bibendum diam suscipit. <strong>Cum sociis natoque penatibus</strong> et magnis dis parturient montes, nascetur ridiculus mus. Integer ut lacinia erat. In ut nisl ac diam mattis sagittis. Fusce lacinia, mi pellentesque venenatis mattis, tortor justo rutrum felis, blandit faucibus purus velit id nisi.</p>
-						<p>Aenean et odio at nisl iaculis venenatis. Mauris quis dui velit. Praesent semper lacus vel quam tristique, ac convallis nulla mollis. Nunc ac sapien vitae orci feugiat mollis. Etiam quis felis quis orci lobortis dignissim. Nam finibus nunc at hendrerit condimentum. Nulla eleifend sollicitudin metus vel pulvinar. Etiam sed semper felis. Aliquam varius ipsum at venenatis venenatis. Phasellus libero ipsum, finibus a magna vel, dictum pellentesque quam.</p>
-					</div>
-				</div>
-			</section>
 			
 			<?php include('inc/footer.php'); ?>
 			
