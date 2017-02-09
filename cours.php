@@ -28,7 +28,36 @@
 					</div>
 				</div>
 			</section>
-			
+			<section id="middle-of-page">
+				
+			</section>
+			<section id="types-de-cours">
+				<div class="row">
+					<div class="large-6 medium-6 small-12 columns">
+						<h3>stretching – pilate – yoga </h3>
+						<p>
+                        Les cours de stretching – pilate – yoga et autres séances de gainage sont proposées préférentiellement dans le concept POSTURALIA.<br><br>
+                        En effet, toutes ces techniques dites « INTERNES », « POSTURALES » sollicitent les fibres musculaires posturales situées principalement
+                         dans la partie postérieure du corps. <br><br>
+                         Depuis les muscles de la nuque, vers ceux de la colonne vertébrale, les fessiers, les muscles de la loge postérieure et interne de la cuisse, 
+                         la loge postérieure de la jambe, et pour finir sous la voûte plantaire. <br><br>
+                       
+                        						
+						</p>  
+					</div>
+					<div class="large-6 medium-6 small-12 columns">
+						<p>
+                        Grâce à cette chaine musculaire posturale les humains se tiennent debout afin de libérer les mains et le regard.<br>
+                        Les propriocepteurs des muscles plantaires sont d’une importance cruciale. C’est la raison pour laquelle ces cours se 
+                        pratique pieds nus (ou en chaussettes). Tous ces exercices se pratiquent avec une respiration consciente. Les techniques sont dites globale. <br>
+                        Le corps tout entier grâce à la respiration, prend place dans l’espace avec une prise de conscience des appuis 
+                        et autres contre appuis afin de construire une posture. <br><br>
+                        Cette posture devient un exercice musculaire de contraction statique qui a pour effet d’oxygéner les muscles.
+                        						
+						</p>  
+					</div>
+				</div>
+			</section>
 			<section id="middle-of-page">
 				<div class="row" data-equalizer>
 					<div class="large-4 medium-4 small-12 columns" data-equalizer-watch>
