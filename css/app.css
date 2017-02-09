@@ -12,6 +12,8 @@
 body {font-family:'CenturyGothic';color:#333;}
 h1, h2, h3, h4, h5, h6 {font-family:'CenturyGothic';text-transform:uppercase;}
 
+.actualites .swiper-slide h3 {color:#fff;}
+
 header {text-align:center;}
 header h1 span {display:block;text-indent:-999999px;max-height:0;}
 header nav {background:#cccac8;}

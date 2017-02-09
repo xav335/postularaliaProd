@@ -42,7 +42,7 @@
 		
 		// ---- Envoi du mail à l'admin -------------- //
 		if ( 1 == 1 ) {
-			$entete = "From:" . MAILNAMECUSTOMER . " <" . MAILCUSTOMER . ">\n";
+			$entete = "From:" . $_POST[ "nom" ] . " <" . $_POST[ "email" ] . ">\n";
 			$entete .= "MIME-version: 1.0\n";
 			$entete .= "Content-type: text/html; charset= iso-8859-1\n";
 			$entete .= "Bcc:" . MAIL_BCC . "\n";
@@ -142,12 +142,16 @@
 			<section id="contact">
 				<div class="row">
 					<div class="large-12 columns">
-						<div class="telephone">05 57 57 57 00</div>
+						<div class="telephone">05 59 84 31 06</div>
 						<div class="horaires">
 							<p>
-								Lundi - Vendredi - 9h00 à 21h00<br/>
-								Samedi - 10h00 à 17h00<br/>
-								Dimanche - 10h00 à 14h00
+							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
+							    
+                                Accueil visite et inscription: <br>
+								lundi 15h/20h<br>  
+                                mardi/jeudi 9h30/13h et 15h/20h<br>
+                                vendredi 9h30/13h et 15h/19h<br>
+                                samedi 9h30/13h
 							</p>
 						</div>
 					</div>

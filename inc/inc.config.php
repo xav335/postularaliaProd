@@ -38,7 +38,7 @@
 	define( "MAILCUSTOMER", 	"xxx" );
 	define( "MAILNAMECUSTOMER", "Posturalia" );
 	define( "URLSITEDEFAULT", 	"http://www.posturalia.com/" );
-	define( "FACEBOOK_LINK", 	"https://www.facebook.com/MadisonPiercing/" );
+	define( "FACEBOOK_LINK", 	"https://www.facebook.com/posturalia/" );
 	define( "DAILYMOTION_LINK", "#" );
 	
 	// ---- Mail d'envoi

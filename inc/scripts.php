@@ -49,7 +49,7 @@
 							scaleControl: false,
 							scrollwheel: false,
 							overviewMapControl: false,
-							center: new google.maps.LatLng(44.835342, -0.5671389999999974)
+							center: new google.maps.LatLng(43.3106626, -0.3655734)
 						};
 						
 						map = new google.maps.Map(document.getElementById('map-canvas'),
@@ -104,14 +104,14 @@
 						map.setOptions({styles: mapStyles});
 						
 						var marker = new google.maps.Marker({
-							position: new google.maps.LatLng(44.835342, -0.5671389999999974),
+							position: new google.maps.LatLng(43.3106626, -0.3655734),
 							map: map,
 							icon: 'img/marker.png',
 							title: 'Posturalia'
 						});
 						 marker.addListener('click', function() {
 							 //window.location.href = 'http://tinyurl.com/zsf4gqo';
-							 window.open('https://goo.gl/68dZJA','_blank');
+							 window.open('https://goo.gl/vLy3Oh','_blank');
 							 });
 					}
 					

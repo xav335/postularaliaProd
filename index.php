@@ -40,7 +40,7 @@
 						echo "<div class='large-6 medium-6 small-12 columns'>\n";
 						echo "	<div class='actualites'>\n";
 						echo "		<h2>Actualité</h2>\n";
-						echo "		<div class='swiper-container'>\n";
+						echo "		<div class='swiper-container' onclick=\"location.href='actualite.php'\">\n";
 						echo "			<div class='swiper-wrapper'>\n";
 						
 						foreach( $liste_actualite as $_actualite ) {
@@ -118,12 +118,16 @@
 				
 				<div class="row" data-equalizer>
 					<div class="large-6 medium-6 small-12 columns" data-equalizer-watch>
-						<div class="telephone">05 57 57 57 00</div>
+						<div class="telephone">05 59 84 31 06</div>
 						<div class="horaires">
 							<p>
-								Lundi - Vendredi - 9h00 à 21h00<br/>
-								Samedi - 10h00 à 17h00<br/>
-								Dimanche - 10h00 à 14h00
+							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
+							    
+                                Accueil visite et inscription: <br>
+								lundi 15h/20h<br>  
+                                mardi/jeudi 9h30/13h et 15h/20h<br>
+                                vendredi 9h30/13h et 15h/19h<br>
+                                samedi 9h30/13h
 							</p>
 						</div>
 					</div>

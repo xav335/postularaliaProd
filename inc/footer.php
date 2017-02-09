@@ -11,15 +11,19 @@
 					<div class="large-6 medium-6 small-12 columns">
 						<p>postur<span>alia</span></p>
 						<p>
-							15 rue Lorem ipsum<br/>
-							33000 Bordeaux
+							Rue Lavoisier<br/>
+							64000 Pau
 						</p>
-						<p>Tél. 05 57 57 57 00</p>
+						<p>Tél. 05 59 84 31 06</p>
 						<p>
-							Lundi - Vendredi - 9h00 à 21h00<br/>
-							Samedi - 10h00 à 17h00<br/>
-							Dimanche - 10h00 à 14h00
-						</p>
+							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
+							    
+                                Accueil visite et inscription: <br>
+								lundi 15h/20h<br>  
+                                mardi/jeudi 9h30/13h et 15h/20h<br>
+                                vendredi 9h30/13h et 15h/19h<br>
+                                samedi 9h30/13h
+							</p>
 					</div>
 				</div>
 			</footer>
