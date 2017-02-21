@@ -94,7 +94,7 @@
 										posturale
 									</h3>
 									<p>
-									   Des cours virtuels variés et choisis : Pilate – stretching – yoga, sont les activités de restructuration posturale. Les démonstrations sont virtuelles mais le coach est là.	
+									   Des cours virtuels variés et choisis : Pilates – stretching – yoga, sont les activités de restructuration posturale. Les démonstrations sont virtuelles mais le coach est là.	
 									</p>
 								</span>
 							</div>

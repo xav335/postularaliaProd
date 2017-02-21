@@ -34,9 +34,9 @@
 			<section id="types-de-cours">
 				<div class="row">
 					<div class="large-6 medium-6 small-12 columns">
-						<h3>stretching – pilate – yoga </h3>
+						<h3>stretching – pilates – yoga </h3>
 						<p>
-                        Les cours de stretching – pilate – yoga et autres séances de gainage sont proposées préférentiellement dans le concept POSTURALIA.<br><br>
+                        Les cours de stretching – pilates – yoga et autres séances de gainage sont proposées préférentiellement dans le concept POSTURALIA.<br><br>
                         En effet, toutes ces techniques dites « INTERNES », « POSTURALES » sollicitent les fibres musculaires posturales situées principalement
                          dans la partie postérieure du corps. <br><br>
                          Depuis les muscles de la nuque, vers ceux de la colonne vertébrale, les fessiers, les muscles de la loge postérieure et interne de la cuisse, 
@@ -86,7 +86,7 @@
 					<div class="large-6 medium-6 small-12 columns">
 						<h3>RESTRUCTURATION POSTURALE</h3>
 						<p>
-						  Dans les programmes de bases figure systématiquement un cours vidéo d’une technique posturale. Au choix : stretching – pilate – yoga.<br><br>
+						  Dans les programmes de bases figure systématiquement un cours vidéo d’une technique posturale. Au choix : stretching – pilates – yoga.<br><br>
 						  La démonstration est virtuelle mais le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
 						  Ce dernier veillant à placer la respiration lors de chaque phase du mouvement.
 						</p>  
