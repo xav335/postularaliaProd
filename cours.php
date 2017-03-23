@@ -48,7 +48,7 @@
 					<div class="large-6 medium-6 small-12 columns">
 						<p>
                         Grâce à cette chaine musculaire posturale les humains se tiennent debout afin de libérer les mains et le regard.<br>
-                        Les propriocepteurs des muscles plantaires sont d’une importance cruciale. C’est la raison pour laquelle ces cours se 
+                        les propriocepteurs de la voûte plantaire sont d’une importance cruciale. C’est la raison pour laquelle ces cours se 
                         pratique pieds nus (ou en chaussettes). Tous ces exercices se pratiquent avec une respiration consciente. Les techniques sont dites globale. <br>
                         Le corps tout entier grâce à la respiration, prend place dans l’espace avec une prise de conscience des appuis 
                         et autres contre appuis afin de construire une posture. <br><br>
