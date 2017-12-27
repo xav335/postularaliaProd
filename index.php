@@ -1,4 +1,4 @@
-<?
+<?php
 	include_once ( $_SERVER[ "DOCUMENT_ROOT" ] . "/admin/classes/utils.php" );
 	require( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/inc.config.php" );
 	require $_SERVER[ "DOCUMENT_ROOT" ] . "/admin/classes/News.php";
@@ -33,7 +33,7 @@
 						
 					</div>
 					
-					<?
+					<?php
 					// ---- Affichage des actualités ---------------------------------- //
 					if ( !empty( $liste_actualite ) ) {
 						$cpt = 1;
