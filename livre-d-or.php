@@ -1,4 +1,4 @@
-<? 
+<?php 
 	require( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/inc.config.php" );
 	require( $_SERVER[ "DOCUMENT_ROOT" ] . "/admin/classes/Contact.php" );
 	require( $_SERVER[ "DOCUMENT_ROOT" ] . "/admin/classes/Goldbook.php" );
@@ -159,7 +159,7 @@
 				</div>
 			</section>
 			
-			<?
+			<?php
 			// ---- Affichage des témoignages --------------------------------- //
 			if ( !empty( $liste ) ) {
 				$cpt = 1;

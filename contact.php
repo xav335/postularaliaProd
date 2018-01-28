@@ -1,4 +1,4 @@
-<?
+<?php
 	require( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/inc.config.php" );
 	require 'admin/classes/Contact.php';
 	require 'admin/classes/utils.php';
