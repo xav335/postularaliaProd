@@ -118,7 +118,7 @@ $corps = utf8_decode( $corps );
 
 // Envoi des identifiants par mail
 if (!empty($_GET['postaction']) && $_GET['postaction']=='preview') {
-	echo "<br><br><h3>Newsletter de Test envoyee a contact@bsport.fr !!!! </h3><br><br>
+	echo "<br><br><h3>Newsletter de Test envoyee a contact@Sport-One.fr!!!! </h3><br><br>
 		<a href='javascript:history.back()'>retour</a>";
 	mail($_to, $sujet, stripslashes($corps), $entete);
 } 
