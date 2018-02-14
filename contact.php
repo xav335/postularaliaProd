@@ -142,7 +142,7 @@
 			<section id="contact">
 				<div class="row">
 					<div class="large-12 columns">
-						<div class="telephone">05 59 84 31 06</div>
+						<div class="telephone">09 54 11 17 21</div>
 						<div class="horaires">
 							<p>
 							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
