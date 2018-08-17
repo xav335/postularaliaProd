@@ -104,10 +104,10 @@ textarea {resize:none;height:150px;}
 #map-canvas {width:100%;height:570px;}
 
 footer {background:#cccac8;padding:40px 0;}
-footer .columns:last-of-type {border-left:2px solid #333;}
-footer .columns:last-of-type p {text-transform:uppercase;}
-footer .columns:last-of-type p:first-of-type {font-size:30px;color:#2dafe5;text-transform:none;}
-footer .columns:last-of-type p:first-of-type span {color:#fff;}
+footer .columns {border-left:2px solid #333;}
+footer .columns p {text-transform:uppercase;}
+footer .columns p:first-of-type {font-size:30px;color:#2dafe5;text-transform:none;}
+footer .columns p:first-of-type span {color:#fff;}
 quote {font-family:'Nothing You Could Do',cursive;font-size:24px;color:#333;text-align:center;display:block;}
 quote span {display:block;text-align:right;}
 
