@@ -86,7 +86,8 @@ header nav li:hover a:after, header nav li.active a:after {content:'';display:bl
 #contact h2 {color:#1caee2;font-size:18px;line-height:20px;text-align:center;margin-bottom:50px;}
 #contact h2:first-line {font-size:72px;}
 #contact h2 span {font-size:13px;}
-#contact .telephone {text-align:center;color:#1caee2;font-size:44px;letter-spacing:2px;}
+#contact .club {text-align:center;color:#000000;font-size:44px;letter-spacing:2px;}
+#contact .telephone {text-align:center;color:#1caee2;font-size:38px;letter-spacing:2px;}
 #contact .horaires p {font-size:18px;line-height:20px;text-align:center;text-transform:uppercase;letter-spacing:1px;}
 #contact .columns:last-of-type {position:relative;min-height:205px;}
 #contact .columns:last-of-type img {position:absolute;bottom:-44px;z-index:10;}

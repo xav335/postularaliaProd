@@ -43,7 +43,7 @@
 							mapTypeId: google.maps.MapTypeId.ROADMAP,
 							mapTypeControl: false,
 							zoom: 14,
-							zoomControl: false,
+							zoomControl: true,
 							panControl: false,
 							streetViewControl: false,
 							scaleControl: false,
@@ -111,8 +111,18 @@
 						});
 						 marker.addListener('click', function() {
 							 //window.location.href = 'http://tinyurl.com/zsf4gqo';
-							 window.open('https://goo.gl/vLy3Oh','_blank');
+							 window.open('https://goo.gl/j1W4d4','_blank');
 							 });
+						 var marker2 = new google.maps.Marker({
+								position: new google.maps.LatLng(43.7106626, -0.3655734),
+								map: map,
+								icon: 'img/marker.png',
+								title: 'Posturalia'
+							});
+							 marker2.addListener('click', function() {
+								 //window.location.href = 'http://tinyurl.com/zsf4gqo';
+								 window.open('https://goo.gl/k7wu3Y','_blank');
+								 });
 					}
 					
 					google.maps.event.addDomListener( window, 'load', initialize );
