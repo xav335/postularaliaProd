@@ -32,6 +32,7 @@
 			$val[ "ville"] = $_POST[ "ville" ];
 			$val[ "email"] = $_POST[ "email" ];
 			$val[ "tel"] = $_POST[ "tel" ];
+			$val[ "club"] = $_POST[ "club" ];
 			$val[ "message"] = $_POST[ "message" ];
 			$val[ "newsletter"] = $_POST[ "newsletter" ];
 			$val[ "fromcontact"] = "on";
@@ -51,13 +52,23 @@
 			$sujet = utf8_decode( "Prise de contact" );
 			
 			//$_to = "franck_langleron@hotmail.com";
-			$_to = ( MAIL_TEST != '' )
+			if ($val["club"]=='Bx') {
+			    $_to = ( MAIL_TEST != '' )
 		    	? MAIL_TEST
-		    	: MAIL_CONTACT;
+		    	: MAIL_CONTACT_BX;
+			}else{
+			    $_to = ( MAIL_TEST != '' )
+			    ? MAIL_TEST
+			    : MAIL_CONTACT;
+			}
 			//echo "Envoi du message à : " . $_to . "<br><br>";
 			
 			$message = "Bonjour,<br><br>";
-			$message .= "La personne suivante a rempli le formulaire de contact de votre site :<br>";
+			if ($val["club"]=='Bx') {
+			     $message .= "La personne suivante a rempli le formulaire de contact de votre site pour Bordeaux :<br>";
+			}else{
+			     $message .= "La personne suivante a rempli le formulaire de contact de votre site pour Pau :<br>";
+			}
 			$message .= "Nom : <b>" . $_POST[ "nom" ] . " " . $_POST[ "prenom" ] . "</b><br>";
 			$message .= "E-mail / Téléphone : <b>" . $_POST[ "email" ] . " / " . $_POST[ "tel" ] . "</b><br>";
 			$message .= "Adresse postale : <b>" . $_POST[ "adresse" ] . ", " . $_POST[ "cp" ] . " " . $_POST[ "ville" ] . "</b><br>";
@@ -129,6 +140,14 @@
 								<div class="columns large-8 medium-7 small-12"><label><input type="text" name="ville" id="ville" placeholder="Ville"></label></div>
 								<div class="columns large-6 medium-6 small-12"><label><input type="tel" name="tel" id="tel" placeholder="Téléphone"></label></div>
 								<div class="columns large-6 medium-6 small-12"><label><input type="email" name="email" id="email" placeholder="e-mail"></label></div>
+								<div class="large-12 columns">
+                					<label>
+                						<select required id="club" name="club" >
+                							<option value="Pau">Salle de PAU</option>
+                							<option value="Bx">Salle de Bordeaux Bastide</option>
+                						</select>
+                					</label>
+                				</div>
 								<div class="columns large-12"><label><textarea name="message" id="message" placeholder="Votre message"></textarea></label></div>
 								<div class="columns large-12"><label><input type="checkbox" name="newsletter" checked />&nbsp;Je souhaite m'inscrire sur la newsletter.</label></div>
 								
@@ -141,7 +160,8 @@
 			
 			<section id="contact">
 				<div class="row">
-					<div class="large-12 columns">
+					<div class="large-6 medium-6 small-12 columns" data-equalizer-watch>
+					   <div class="club">PAU</div>
 						<div class="telephone">09 54 11 17 21</div>
 						<div class="horaires">
 							<p>
@@ -155,7 +175,25 @@
 							</p>
 						</div>
 					</div>
-				</div>
+					<div class="large-5 medium-5 small-12 columns" data-equalizer-watch>
+					   <div class="club">BORDEAUX</div>
+						<div class="telephone">05 56 32 62 10</div>
+						<div class="horaires">
+							<p>
+							 <br>
+							    
+                                Accueil, inscription, coaching: <br>
+								Lundi-Mardi-Mercredi :<br> 9h30-13h30 / 15h-20h<br>
+                                Jeudi : 9h30-13h30 / 16h-20h<br>
+                                Vendredi : 9h30-12h30 / 16h-20h<br>
+                                Samedi : 9h30-12h30
+							</p>
+						</div>
+				    </div>
+				    <div class="large-1 medium-1 small-12 columns" data-equalizer-watch>
+				        <a href="<?php echo FACEBOOK_LINK?>" target="_BLANK" ><img src="img/fb.png" alt="" /></a>
+				    </div>
+				    
 				<div id="map-canvas"></div>
 			</section>
 			

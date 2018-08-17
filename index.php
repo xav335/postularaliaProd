@@ -132,7 +132,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="large-4 medium-4 small-12 columns" data-equalizer-watch>
+					<div class="large-3 medium-3 small-12 columns" data-equalizer-watch>
 						<img src="img/posture.png" alt="" />
 					</div>
 					<div class="large-4 medium-4 small-12 columns" data-equalizer-watch>
@@ -149,7 +149,10 @@
                                 Samedi : 9h30-12h30
 							</p>
 						</div>
-				</div>
+				    </div>
+				   <div class="large-1 medium-1 small-12 columns" data-equalizer-watch>
+				        <a href="<?php echo FACEBOOK_LINK?>" target="_BLANK" ><img src="img/fb.png" alt="" /></a>
+				    </div>
 				<div id="map-canvas">
 				
 				</div>
