@@ -121,7 +121,7 @@
 							});
 							 marker2.addListener('click', function() {
 								 //window.location.href = 'http://tinyurl.com/zsf4gqo';
-								 window.open('https://goo.gl/k7wu3Y','_blank');
+								 window.open('https://tinyurl.com/ycc727x3','_blank');
 								 });
 					}
 					
