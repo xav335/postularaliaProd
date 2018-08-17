@@ -140,7 +140,7 @@
 						<div class="telephone">05 56 32 62 10</div>
 						<div class="horaires">
 							<p>
-							 <br><br>
+							 <br>
 							    
                                 Accueil, inscription, coaching: <br>
 								Lundi-Mardi-Mercredi :<br> 9h30-13h30 / 15h-20h<br>
