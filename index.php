@@ -150,7 +150,9 @@
 							</p>
 						</div>
 				</div>
-				<div id="map-canvas"></div>
+				<div id="map-canvas">
+				
+				</div>
 			</section>
 			
 			<?php include('inc/footer.php'); ?>
