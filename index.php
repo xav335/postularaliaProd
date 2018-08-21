@@ -50,7 +50,7 @@
 							$date_news = date( "d", $mktime_news ) . " " . $tab_mois[ date( "n", $mktime_news ) ] . " " . date( "Y", $mktime_news );
 							
 							echo "<div class='swiper-slide'>\n";
-							echo "	<h3>" . $date_news . "</h3>\n";
+							echo "	<h3>" . $_actualite["titre"] . "</h3>\n";
 							echo "	<p>" . $contenu . "</p>\n";
 							echo "</div>\n";
 						}
