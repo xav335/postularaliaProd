@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.6.21, for osx10.6 (x86_64)
+-- MySQL dump 10.13  Distrib 5.5.58, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: posturalia
 -- ------------------------------------------------------
--- Server version	5.6.21
+-- Server version	5.5.58-0+deb8u1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -62,7 +62,7 @@ CREATE TABLE `contact` (
   `fromgoldbook` tinyint(4) NOT NULL DEFAULT '0',
   `fromcontact` tinyint(4) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -71,7 +71,7 @@ CREATE TABLE `contact` (
 
 LOCK TABLES `contact` WRITE;
 /*!40000 ALTER TABLE `contact` DISABLE KEYS */;
-INSERT INTO `contact` VALUES (13,'franck','langleron','','','','franck_langleron@hotmail.com','','xxx',1,1,1);
+INSERT INTO `contact` VALUES (13,'franck','langleron','','','','franck_langleron@hotmail.com','','xxx',1,1,1),(14,'Diana','Williams','9881 Lawrence Road','90021','Los Angeles','william.sd.diana@gmail.com','0120120120','We are interested to increase traffic to your website, please get back to us in order to discuss the possibility in further detail.',1,0,1),(15,'Javier','GONZALEZ','20 avenue de la foret','33700','Merignac','fjavi.gonzalez@gmail.com','0681731870','test de mesage',1,0,1),(16,'Lafuente','Sylvie','9 lot le verger','64230','SAUVAGNON','Solymar64000@hotmail.fr','0612363490','Bonjour je ne trouve pas les tarifs svp',1,0,1),(17,'Celina ','Beoletto ','','','Bordes','celina_5@hotmail.fr','0618990626','Bonjour \r\n\r\nVous serait il possible de me communiquer les prix pour une inscription pour jusqu’a Fin août pour une copine et moi même dans votre salle ?\r\n\r\nCordialement ',0,0,1),(18,'','','','','','lamourouxlaetitia@yahoo.fr','','',1,0,0),(19,'','','','','','nbouezet@gmail.com','','',1,0,0),(20,'Isabelle ','DEBEZE','','','','isadebeze@gmail.com','0675151145','Bonjour,\r\nJe suis à la recherche d\'une salle de sport et intéressée par votre approche. \r\nPouvez vous m\'envoyer le planning des cours proposés ainsi que les tarifs ?\r\nCordialement ',1,0,1),(21,'Elodie','Junqua','batA residence les jardins de l\'ossau','64140','Lons','junqua.elodie@orange.fr','0699644718','Bonjour,\r\nPuis je connaître les tarifs ,jours et horaires pour les cours de pilates . \r\ncordialement .',0,0,1),(22,'Martine','LACLUQUE','','64160','Morlaas','martine_lacluque@yahoo.fr','0674919255','Bonjour,\r\nje commence à me renseigner pour me ré-inscrire dans une salle de remise en forme. L\'adresse de Posturalia est la même que celle d\'Amaonia à Pau. Pouvez-vous m\'indiquer s\'il s\'agit de la même salle ? Pouvez-vous me renseigner également sur les tarifs en vigueur ?\r\nMerci\r\nCordialement,\r\nMartine Lacluque',0,0,1),(23,'Laura','Bernay','','','','Laura220494@hotmail.fr','0646800269','Bonjour, \r\n\r\nPourriez vous m indiquer  les prix des forfaits de votre structure ?\r\n\r\nCordialement. \r\nMlle BERNAY. ',0,0,1),(24,'Audrey','Lomer','21 Rue Édouard Herriot, Apt 31D','33310','Lormont','lomeraudrey@hotmail.fr','0633307807','Bonjour, je souhaiterais connaître vos différents abonnements ainsi que les frais d\'inscription et biensur vos offres promotionnelles pour septembre. Merci de me contacter par mail. Cordialement. ',0,0,1);
 /*!40000 ALTER TABLE `contact` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -137,7 +137,7 @@ CREATE TABLE `goldbook` (
   `message` text,
   `online` tinyint(4) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -191,7 +191,7 @@ CREATE TABLE `news` (
   `image1` varchar(250) DEFAULT NULL,
   `online` tinyint(4) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id_news`)
-) ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=41 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -200,7 +200,7 @@ CREATE TABLE `news` (
 
 LOCK TABLES `news` WRITE;
 /*!40000 ALTER TABLE `news` DISABLE KEYS */;
-INSERT INTO `news` VALUES (39,'2017-01-26 00:00:00','Nouveau site internet','Retrouvez sur notre site internet toutes les informations du club.\r\nN\'hésitez pas à nous contactez par email ou par téléphone pour avoir toutes les informations necessaires.','/internet_company1-.jpg',1);
+INSERT INTO `news` VALUES (39,'2017-01-26 00:00:00','Nouveau site internet','Retrouvez sur notre site internet toutes les informations du club.\r\nN\'hésitez pas à nous contactez par email ou par téléphone pour avoir toutes les informations necessaires.','/internet_company1-.jpg',1),(40,'2018-09-12 00:00:00','12,13 et 14 Sept 2018 Journées Portes ouvertes','12,13 et 14 Sept 2018, journées Portes Ouvertes à Posturalia Bordeaux \r\nDes OFFRES EXCLUSIVES vous attendent !! \r\nSéance Découverte sur RDV','',1);
 /*!40000 ALTER TABLE `news` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -318,4 +318,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2017-01-25 19:59:50
+-- Dump completed on 2018-08-21 11:23:39
