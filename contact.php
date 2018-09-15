@@ -166,12 +166,10 @@
 						<div class="horaires">
 							<p>
 							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
-							    
                                 Accueil visite et inscription: <br>
-								lundi 15h/20h<br>  
-                                mardi/jeudi 9h30/13h et 15h/20h<br>
-                                vendredi 9h30/13h et 15h/19h<br>
-                                samedi 9h30/13h
+								Lundi, mardi, jeudi : 9h-12h30 et 14h-19h<br>  
+                                Mercredi: 14h-19h <br>  
+                                Vendredi, Samedi: 9h-12h30<br> 
 							</p>
 						</div>
 					</div>
@@ -181,7 +179,6 @@
 						<div class="horaires">
 							<p>
 							 <br>
-							    
                                 Accueil, inscription, coaching: <br>
 								Lundi-Mardi-Mercredi :<br> 9h30-13h30 / 15h-20h<br>
                                 Jeudi : 9h30-13h30 / 16h-20h<br>

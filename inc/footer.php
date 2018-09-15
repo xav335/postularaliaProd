@@ -17,12 +17,10 @@
 						<p>Tél. 09 54 11 17 21</p>
 						<p>
 							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
-							    
                                 Accueil visite et inscription: <br>
-								lundi 15h/20h<br>  
-                                mardi/jeudi 9h30/13h et 15h/20h<br>
-                                vendredi 9h30/13h et 15h/19h<br>
-                                samedi 9h30/13h
+                                Lundi, mardi, jeudi : 9h-12h30 et 14h-19h<br>  
+                                Mercredi: 14h-19h <br>  
+                                Vendredi, Samedi: 9h-12h30<br>  
 							</p>
 					</div>
 					<div class="large-4 medium-4 small-12 columns">
