@@ -86,8 +86,8 @@
 					<div class="large-6 medium-6 small-12 columns">
 						<h3>RESTRUCTURATION POSTURALE</h3>
 						<p>
-						  Dans les programmes de bases figure systématiquement un cours vidéo d’une technique posturale. Au choix : stretching – pilates – yoga.<br><br>
-						  La démonstration est virtuelle mais le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
+						  Des cours accompagnés variés et choisis : Pilates – stretching – yoga.<br><br>
+						  Le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
 						  Ce dernier veillant à placer la respiration lors de chaque phase du mouvement.
 						</p>  
 					</div>

@@ -29,8 +29,8 @@
 			
 			<section id="actualite">
 				<div class="row">
-					<div class="large-6 medium-6 small-12 columns">
-						
+					<div class="large-6 medium-6 small-12 columns" style="text-align: center;">
+						<h3>Centre de Pilates</h3>
 					</div>
 					
 					<?php

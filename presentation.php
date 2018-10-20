@@ -19,8 +19,8 @@
 					</div>
 					<div class="large-6 medium-6 small-12 columns">
 						<h2>Présentation<br/>du centre de remise en forme Posturalia</h2>
-						<p>Posturalia est une salle de sport apparemment semblable à beaucoup d’autres. <br>
-						Cependant une approche « POSTURALE » des activités habituellement proposées représente ici la différence essentielle.  <br>
+						<p>Posturalia est une salle de sport apparemment semblable à beaucoup d’autres. <br> Des coachs expérimentés vous guident dans les apprentissages
+						et une approche « POSTURALE » des activités habituellement proposées représente ici la différence essentielle.  <br>
 						Cette approche nous amène à faire une sélection dans les activités. 
 						Certaines sont privilégiées, d’autres sont moins utilisées, voire même supprimées de nos équipements.  <br>
 						Nous sommes une majorité à vouloir pratiquer une activité physique dans le but d’améliorer notre santé.  <br> <br>
@@ -51,7 +51,7 @@
 										posturale
 									</h3>
 									<p>
-									   Des cours virtuels variés et choisis : Pilates – stretching – yoga, sont les activités de restructuration posturale. Les démonstrations sont virtuelles mais le coach est là.	
+									   Des cours accompagnés variés et choisis : Pilates – stretching – yoga, sont les activités de restructuration posturale. Le coach est toujours là.	
 									</p>
 								</span>
 							</div>
@@ -82,8 +82,8 @@
 					<div class="large-4 medium-4 small-12 columns">
 						<h3>RESTRUCTURATION POSTURALE</h3>
 						<p>
-						  Dans les programmes de bases figure systématiquement un cours vidéo d’une technique posturale. Au choix : stretching – pilates – yoga.<br><br>
-						  La démonstration est virtuelle mais le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
+						  Dans les programmes de bases, une technique posturale au choix : stretching – pilates – yoga.<br><br>
+						  Le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
 						  Ce dernier veillant à placer la respiration lors de chaque phase du mouvement.
 						</p>  
 					</div>
