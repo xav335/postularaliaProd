@@ -31,10 +31,9 @@
 						</p>
 						<p>Tél. 05 56 32 62 10</p>
 						<p>
-							    <br>
+							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
                                 Accueil, inscription, coaching: <br>
-								Lundi-Mardi-Mercredi :<br> 9h30-13h30 / 15h-20h<br>
-                                Jeudi : 9h30-13h30 / 16h-20h<br>
+								Lundi-Mardi-Mercredi-Jeudi :<br> 9h30-13h30 / 16h-20h<br>
                                 Vendredi : 9h30-12h30 / 16h-20h<br>
                                 Samedi : 9h30-12h30
 							</p>
