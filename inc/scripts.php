@@ -111,7 +111,7 @@
 						});
 						 marker.addListener('click', function() {
 							 //window.location.href = 'http://tinyurl.com/zsf4gqo';
-							 window.open('https://goo.gl/vLy3Oh','_blank');
+							 window.open('https://tinyurl.com/y3p7skth','_blank');
 							 });
 						/*var marker2 = new google.maps.Marker({
 								position: new google.maps.LatLng(44.845031, -0.555305),
