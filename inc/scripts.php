@@ -42,14 +42,14 @@
 						var mapOptions = {
 							mapTypeId: google.maps.MapTypeId.ROADMAP,
 							mapTypeControl: false,
-							zoom: 8,
+							zoom: 14,
 							zoomControl: true,
 							panControl: false,
 							streetViewControl: false,
 							scaleControl: false,
 							scrollwheel: false,
 							overviewMapControl: false,
-							center: new google.maps.LatLng(44.160844, -0.188409)
+							center: new google.maps.LatLng(43.3106626, -0.3655734)
 						};
 						
 						map = new google.maps.Map(document.getElementById('map-canvas'),
@@ -113,7 +113,7 @@
 							 //window.location.href = 'http://tinyurl.com/zsf4gqo';
 							 window.open('https://goo.gl/vLy3Oh','_blank');
 							 });
-						var marker2 = new google.maps.Marker({
+						/*var marker2 = new google.maps.Marker({
 								position: new google.maps.LatLng(44.845031, -0.555305),
 								map: map,
 								icon: 'img/marker.png',
@@ -122,7 +122,7 @@
 							 marker2.addListener('click', function() {
 								 //window.location.href = 'http://tinyurl.com/zsf4gqo';
 								 window.open('https://tinyurl.com/yby2x7ly','_blank');
-								 });
+								 });*/
 					}
 					
 					google.maps.event.addDomListener( window, 'load', initialize );
