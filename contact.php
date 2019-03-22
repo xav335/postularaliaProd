@@ -144,7 +144,8 @@
 				<div class="row">
 					<div class="large-12 medium-12 small-12 columns" data-equalizer-watch>
 					   <div class="club">PAU</div>
-						<div class="telephone">09 54 11 17 21</div>
+						<div class="telephone"><a href="tel:+33684911950"><b>Tél. 06 84 91 19 50</b></a></div>
+						
 						<div class="horaires">
 							<p>
 							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>

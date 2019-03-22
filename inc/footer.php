@@ -15,7 +15,7 @@
 							Rue Lavoisier<br/>
 							64000 Pau
 						</p>
-						<p>Tél. 09 54 11 17 21</p>
+						<p><a href="tel:+33684911950"><b>Tél. 06 84 91 19 50</b></a></p>
 						<p>
 							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
                                 Accueil visite et inscription: <br>
