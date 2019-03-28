@@ -69,11 +69,11 @@
 			</section>
 			
 			<section id="disciplines">
-				<h2>
-					3<br/><br/><br/>
-					disciplines<br/>
-					<span>(Activation cardio-vasculaire, Restructuration posturale, Tonification musculaire)</span>
-				</h2>
+<!-- 				<h2> -->
+<!-- 					3<br/><br/><br/> -->
+<!-- 					disciplines<br/> -->
+<!-- 					<span>(Activation cardio-vasculaire, Equilibre posturale, Musculation)</span> -->
+<!-- 				</h2> -->
 				<div class="disciplines">
 					<div class="row">
 						<div class="large-4 medium-4 small-12 columns">
@@ -90,11 +90,11 @@
 							<div class="discipline">
 								<span>
 									<h3>
-										Restructuration<br/>
+										Equilibre<br/>
 										posturale
 									</h3>
 									<p>
-									   Des cours virtuels variés et choisis : Pilates – stretching – yoga, sont les activités de restructuration posturale. Les démonstrations sont virtuelles mais le coach est là.	
+									   Des conseils et une prise en charge spécifique pour le "mal au dos"; les déséquilibres posturaux; les T.M.S. et autres troubles dus à la sédentaritéou à l'hyperactivité. 
 									</p>
 								</span>
 							</div>
@@ -102,9 +102,9 @@
 						<div class="large-4 medium-4 small-12 columns">
 							<div class="discipline">
 								<span>
-									<h3>Tonification</br> Musculaire</h3>
+									<h3>Musculation</h3>
 									<p>
-									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. 	
+									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. Haltères, bancs, tirages, tractions. 	
 									</p>
 								</span>
 							</div>
@@ -118,14 +118,13 @@
 				<div class="row" data-equalizer>
 					<div class="large-6 medium-6 small-12 columns" data-equalizer-watch>
 					   <div class="club">PAU</div>
-						<div class="telephone">09 54 11 17 21</div>
+						<div class="telephone"><a href="tel:+33954111721"><b>Tél. 09 54 11 17 21</b></a></div>
+						<div class="telephone"><a href="tel:+33684911950"><b> 06 84 91 19 50</b></a></div>
 						<div class="horaires">
-							<p>
-							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
-                                Accueil visite et inscription: <br>
-								Lundi, mardi, jeudi : 9h-12h30 et 14h-19h<br>  
-                                Mercredi: 14h-19h <br>  
-                                Vendredi, Samedi: 9h-12h30<br> 
+							<p><br>
+							    <strong>Accueil visite et inscription:</strong><br><br>
+								Du Lundi au Vendredi : 9h30-12h30 et 15h-19h<br><br>
+                                Samedi: 9h30-12h30<br> 
 							</p>
 						</div>
 					</div>

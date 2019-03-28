@@ -21,7 +21,9 @@
 						<h2>Le fitness autrement</h2>
 						<h4>POSTURALIA : mon nouveau souffle</h4>
 						<p> <br>
-						  Nous voyons là que c’est une utilisation différente des équipements traditionnels ; associée à un conseil appuyé pour la pratique des activités posturales (stretching-pilate-yoga) que POSTURALIA se positionne comme un véritable concept. 
+						  Nous voyons là que c’est une utilisation différente des équipements traditionnels ; 
+						  associée à un conseil appuyé pour la pratique des activités posturales (STRETCHING - GAINAGE - ABDOS-FESSIERS) 
+						  que POSTURALIA se positionne comme un véritable concept. 
 						  <br> <br>
 						  Une pratique qui vise à redonner à chacun et chacune une pleine conscience de l’activité physique, qui aboutit à un meilleur dialogue avec son propre corps.
 						</p>
@@ -34,9 +36,9 @@
 			<section id="types-de-cours">
 				<div class="row">
 					<div class="large-6 medium-6 small-12 columns">
-						<h3>stretching – pilates – yoga </h3>
+						<h3>STRETCHING - GAINAGE - ABDOS&#8209;FESSIERS </h3>
 						<p>
-                        Les cours de stretching – pilates – yoga et autres séances de gainage sont proposées préférentiellement dans le concept POSTURALIA.<br><br>
+                        Les cours sont proposées préférentiellement dans le concept POSTURALIA.<br><br>
                         En effet, toutes ces techniques dites « INTERNES », « POSTURALES » sollicitent les fibres musculaires posturales situées principalement
                          dans la partie postérieure du corps. <br><br>
                          Depuis les muscles de la nuque, vers ceux de la colonne vertébrale, les fessiers, les muscles de la loge postérieure et interne de la cuisse, 

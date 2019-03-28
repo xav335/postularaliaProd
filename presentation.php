@@ -19,7 +19,7 @@
 					</div>
 					<div class="large-6 medium-6 small-12 columns">
 						<h2>Présentation<br/>du centre de remise en forme Posturalia</h2>
-						<p>Posturalia est une salle de sport apparemment semblable à beaucoup d’autres. <br> Des coachs expérimentés vous guident dans les apprentissages
+						<p>Posturalia est une salle de sport apparemment semblable à beaucoup d’autres. <br> Un coach expérimenté vous guide dans les apprentissages
 						et une approche « POSTURALE » des activités habituellement proposées représente ici la différence essentielle.  <br>
 						Cette approche nous amène à faire une sélection dans les activités. 
 						Certaines sont privilégiées, d’autres sont moins utilisées, voire même supprimées de nos équipements.  <br>
@@ -47,11 +47,11 @@
 							<div class="discipline">
 								<span>
 									<h3>
-										Restructuration<br/>
+										Equilibre<br/>
 										posturale
 									</h3>
 									<p>
-									   Des cours accompagnés variés et choisis : Pilates – stretching – yoga, sont les activités de restructuration posturale. Le coach est toujours là.	
+									   Des conseils et une prise en charge spécifique pour le "mal au dos"; les déséquilibres posturaux; les T.M.S. et autres troubles dus à la sédentaritéou à l'hyperactivité. 
 									</p>
 								</span>
 							</div>
@@ -59,9 +59,9 @@
 						<div class="large-4 medium-4 small-12 columns">
 							<div class="discipline">
 								<span>
-									<h3>Tonification</br> Musculaire</h3>
+									<h3>Musculation</h3>
 									<p>
-									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. 	
+									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. Haltères, bancs, tirages, tractions. 	
 									</p>
 								</span>
 							</div>
@@ -72,23 +72,23 @@
 			<section id="types-de-cours">
 				<div class="row">
 				    <div class="large-4 medium-4 small-12 columns">
-						<h3>ACTIVATION <br>CARDIO-TRAINING</h3>
+						<h3>CARDIO-TRAINING</h3>
 						<p>
-						   Le cardio training en privilégiant les programmes d’endurance adaptés à chacun.<br>
+						   Un programme d'endurance adapté à chacune et à chacun, ici l'approche posturale va de soi.<br>
 						   Ici l’approche posturale va de soi par l’utilisation des tapis de marche, des elliptiques, du VARIO et du CROSS OVER.
 						   <br><br>Autant d’exercices qui mettent en jeu l’équilibration. Laquelle sollicite globalement la musculature posturale.
 						</p>  
 					</div>
 					<div class="large-4 medium-4 small-12 columns">
-						<h3>RESTRUCTURATION POSTURALE</h3>
+						<h3>EQUILIBRE POSTURALE</h3>
 						<p>
-						  Dans les programmes de bases, une technique posturale au choix : stretching – pilates – yoga.<br><br>
-						  Le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
-						  Ce dernier veillant à placer la respiration lors de chaque phase du mouvement.
+						  Des cours vidéo de gainage !<br><br>
+						  Stretching et abdos-fessiers font partie intégrante de l'approche posturale du concept.
+						  
 						</p>  
 					</div>
 					<div class="large-4 medium-4 small-12 columns">
-					    <h3>TONIFICATION MUSCULAIRE</h3>
+					    <h3>MUSCULATION</h3>
 						<p>
 						  Là encore l’approche posturale est déterminante. <br><br>
 						  En effet, dans l’objectif d’une régulation tonique nous proposons des programmes où est mise en avant la tonification de groupes musculaires qui interviennent dans la posture. <br><br>

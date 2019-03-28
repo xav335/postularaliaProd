@@ -144,15 +144,14 @@
 				<div class="row">
 					<div class="large-12 medium-12 small-12 columns" data-equalizer-watch>
 					   <div class="club">PAU</div>
-						<div class="telephone"><a href="tel:+33684911950"><b>Tél. 06 84 91 19 50</b></a></div>
+					   <div class="telephone"><a href="tel:+33954111721"><b>Tél. 09 54 11 17 21</b></a></div>
+						<div class="telephone"><a href="tel:+33684911950"><b> 06 84 91 19 50</b></a></div>
 						
 						<div class="horaires">
 							<p>
-							    <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
-                                Accueil visite et inscription: <br>
-								Lundi, mardi, jeudi : 9h-12h30 et 14h-19h<br>  
-                                Mercredi: 14h-19h <br>  
-                                Vendredi, Samedi: 9h-12h30<br> 
+							    <strong>Accueil visite et inscription:</strong><br><br>
+								Du Lundi au Vendredi : 9h30-12h30 et 15h-19h<br><br>
+                                Samedi: 9h30-12h30<br>  
 							</p>
 						</div>
 					</div>
