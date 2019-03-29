@@ -32,6 +32,7 @@
 					<input type="hidden" name="as" value="" />
 					<label>Abonnez-vous à notre newsletter : <input type="email" name="email_news" id="email_news" placeholder="saisissez votre e-mail" /><button>ok</button></label>
 				</form>
+				<a class="lblanc" href="mentions.php"><b>Mentions légales</b></a>
 			</div>
 			
 			
