@@ -51,7 +51,9 @@
 										posturale
 									</h3>
 									<p>
-									   Des conseils et une prise en charge spécifique pour le "mal au dos"; les déséquilibres posturaux; les T.M.S. et autres troubles dus à la sédentaritéou à l'hyperactivité. 
+									   Des conseils et une prise en charge spécifique pour le "mal&nbsp;au&nbsp;dos" ; les déséquilibres posturaux ; 
+									   les <a href="https://www.ameli.fr/assure/sante/themes/tms/comprendre-troubles-musculosquelettiques" target ="blank">T.M.S.</a> et 
+									   autres troubles dus à la sédentarité ou à l'hyperactivité. 
 									</p>
 								</span>
 							</div>
@@ -80,7 +82,7 @@
 						</p>  
 					</div>
 					<div class="large-4 medium-4 small-12 columns">
-						<h3>EQUILIBRE POSTURALE</h3>
+						<h3>EQUILIBRE POSTURAL</h3>
 						<p>
 						  Des cours vidéo de gainage !<br><br>
 						  Stretching et abdos-fessiers font partie intégrante de l'approche posturale du concept.

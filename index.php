@@ -94,7 +94,9 @@
 										posturale
 									</h3>
 									<p>
-									   Des conseils et une prise en charge spécifique pour le "mal au dos"; les déséquilibres posturaux; les T.M.S. et autres troubles dus à la sédentaritéou à l'hyperactivité. 
+									   Des conseils et une prise en charge spécifique pour le "mal&nbsp;au&nbsp;dos" ; les déséquilibres posturaux ; 
+									   les <a href="https://www.ameli.fr/assure/sante/themes/tms/comprendre-troubles-musculosquelettiques" target ="blank">T.M.S.</a> et 
+									   autres troubles dus à la sédentarité ou à l'hyperactivité. 
 									</p>
 								</span>
 							</div>
@@ -104,7 +106,8 @@
 								<span>
 									<h3>Musculation</h3>
 									<p>
-									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. Haltères, bancs, tirages, tractions. 	
+									   Un matériel équipé du système isocontrol technogym, qui permet de commencer la musculation dans les meilleures conditions. 
+									   Les plus avertis bénéficient d’une sélection de poste pour aller à l’essentiel. Haltères, bancs, tirages, tractions. 	
 									</p>
 								</span>
 							</div>

@@ -53,6 +53,7 @@ header nav li:hover a:after, header nav li.active a:after {content:'';display:bl
 #disciplines h2 {color:#1caee2;font-size:18px;line-height:20px;text-align:center;margin-bottom:50px;}
 #disciplines h2:first-line {font-size:72px;}
 #disciplines h2 span {font-size:13px;}
+.disciplines a {color:#fff;text-decoration: underline;}
 .disciplines {background:#f0efee;padding:50px 0;}
 .discipline {background:url('../img/bg-cardio.png') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .discipline span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.8);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}

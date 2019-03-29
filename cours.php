@@ -36,26 +36,23 @@
 			<section id="types-de-cours">
 				<div class="row">
 					<div class="large-6 medium-6 small-12 columns">
-						<h3>STRETCHING - GAINAGE - ABDOS&#8209;FESSIERS </h3>
 						<p>
                         Les cours sont proposées préférentiellement dans le concept POSTURALIA.<br><br>
-                        En effet, toutes ces techniques dites « INTERNES », « POSTURALES » sollicitent les fibres musculaires posturales situées principalement
-                         dans la partie postérieure du corps. <br><br>
-                         Depuis les muscles de la nuque, vers ceux de la colonne vertébrale, les fessiers, les muscles de la loge postérieure et interne de la cuisse, 
-                         la loge postérieure de la jambe, et pour finir sous la voûte plantaire. <br><br>
-                       
-                        						
+                        <h3>STRETCHING</h3>
+                        Entendu ici une technique GLOBALE qui sollicite les fibres musculaires situées principalement dans la partie postérieure du corps.<br> 
+                        Des muscles de la nuque jusqu'à la voute plantaire.<br><br>
+                       <h3>GAINAGE</h3>
+                        Exercice global qui grâce à une contraction statique permet d'harmoniser le tonus musculaire des abdominaux (grand droit - transverse - oblique)						
 						</p>  
 					</div>
 					<div class="large-6 medium-6 small-12 columns">
 						<p>
-                        Grâce à cette chaine musculaire posturale les humains se tiennent debout afin de libérer les mains et le regard.<br>
-                        les propriocepteurs de la voûte plantaire sont d’une importance cruciale. C’est la raison pour laquelle ces cours se 
-                        pratique pieds nus (ou en chaussettes). Tous ces exercices se pratiquent avec une respiration consciente. Les techniques sont dites globale. <br>
-                        Le corps tout entier grâce à la respiration, prend place dans l’espace avec une prise de conscience des appuis 
-                        et autres contre appuis afin de construire une posture. <br><br>
-                        Cette posture devient un exercice musculaire de contraction statique qui a pour effet d’oxygéner les muscles.
-                        						
+						<h3>LES ABDOMINAUX</h3>
+                        Il s'agit surtout des muscles transverses qui sont les abdominaux profonds qui en se contractant agissent 
+                        sur le dos: stabilité lombaire et étirement de la colonne vertébrale. 
+                        <h3>LES FESSIERS</h3>	
+                        La contraction des fessiers, induit par le principe des chaines musculaires une contraction statique dans les muscles lombaires d'où leur 
+                        oxygénation. 				
 						</p>  
 					</div>
 				</div>
@@ -69,9 +66,11 @@
 					</div>
 					<div class="large-4 medium-4 small-12 columns text-middle" data-equalizer-watch>
 						<div>
-							<h3>ACTIVATION <br>CARDIO-TRAINING</h3>
+							<h3>CARDIO-TRAINING</h3>
 							<p>
-							 Le cardio training en privilégiant les programmes d’endurance adaptés à chacun. Ici l’approche posturale va de soi par l’utilisation des tapis de marche, des elliptiques, du VARIO et du CROSS OVER. Autant d’exercices qui mettent en jeu l’équilibration. Laquelle sollicite globalement la musculature posturale.
+							 Un programme d'endurance adapté à chacune et à chacun, ici l'approche posturale va de soi.<br>
+						        Ici l’approche posturale va de soi par l’utilisation des tapis de marche, des elliptiques, du VARIO et du CROSS OVER.
+						   <br><br>Autant d’exercices qui mettent en jeu l’équilibration. Laquelle sollicite globalement la musculature posturale.
 							</p> 
 						</div>
 					</div>
@@ -86,17 +85,16 @@
 			<section id="types-de-cours">
 				<div class="row">
 					<div class="large-6 medium-6 small-12 columns">
-						<h3>RESTRUCTURATION POSTURALE</h3>
+						<h3>EQUILIBRE POSTURAL</h3>
 						<p>
-						  Des cours accompagnés variés et choisis : Pilates – stretching – yoga.<br><br>
-						  Le coach est là pour corriger une éventuelle mauvaise interprétation de l’exercice. <br><br>
-						  Ce dernier veillant à placer la respiration lors de chaque phase du mouvement.
+						  Des cours vidéo de gainage !<br><br>
+						  Stretching et abdos-fessiers font partie intégrante de l'approche posturale du concept.
 						</p>  
 					</div>
 					<div class="large-6 medium-6 small-12 columns">
-					    <h3>TONIFICATION MUSCULAIRE</h3>
+					    <h3>MUSCULATION</h3>
 						<p>
-						  Là encore l’approche posturale est déterminante. <br><br>
+                            Là encore l’approche posturale est déterminante. <br><br>
 						  En effet, dans l’objectif d’une régulation tonique nous proposons des programmes où est mise en avant la tonification de groupes musculaires qui interviennent dans la posture. <br><br>
 						  Tous les muscles faisant partie de la chaine musculaire postérieure. 
 						</p>
