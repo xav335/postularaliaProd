@@ -18,8 +18,9 @@
 						</p>
 						<p><a href="tel:+33954111721"><b>Tél. 09 54 11 17 21</b></a></br>
 						<a href="tel:+33684911950"><b> 06 84 91 19 50</b></a></p>
-						<p>
-							     <strong>Accueil visite et inscription:</strong><br><br>
+						<p><br>
+						          <strong>horaires adhérents 6h/23h 365j/an</strong><br><br>
+							     Accueil visite et inscription:<br><br>
 								Du Lundi au Vendredi : 9h30-12h30 et 15h-19h<br><br>
                                 Samedi: 9h30-12h30<br>  
 							</p>
