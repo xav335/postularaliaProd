@@ -157,7 +157,7 @@
 					</div>
 					
 				    
-				<div id="map-canvas"></div>
+				<a href="https://tinyurl.com/yy82np4z" target="blank"><img alt="" src="/img/map.jpg"></a>
 			</section>
 			
 			<?php include('inc/footer.php'); ?>

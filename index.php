@@ -135,8 +135,8 @@
 						<img src="img/posture.png" alt="" />
 					</div>
 					
-				<div id="map-canvas">
-				
+				<div >
+				 <a href="https://tinyurl.com/yy82np4z" target="blank"><img alt="" src="/img/map.jpg"></a>
 				</div>
 			</section>
 			
