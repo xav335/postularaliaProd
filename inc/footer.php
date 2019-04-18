@@ -1,13 +1,12 @@
 			<footer>
 				<div class="row">
-					<div class="large-4 medium-4 small-12 columns">
+					<div class="large-5 medium-5 small-12 columns">
 						<quote>
 							« Superbe ambiance,<br/>
 							très bon feeling avec l’équipe.<br/>
 							En un mot : idéal ! »
 							<span>Jessica R.</span>
 						</quote>
-						
 					</div>
 					
 					<div class="large-5 medium-5 small-12 columns">
@@ -25,7 +24,9 @@
                                 Samedi: 9h30-12h30<br>  
 							</p>
 					</div>
-					
+					<div class="large-2 medium-2 small-12 columns">
+						<a href="https://www.facebook.com/Posturalia-Pau-262073354697630/" target="blank"><img alt="" src="/img/fbmiddle.png"></a>
+					</div>
 				</div>
 			</footer>
 			<div class="newsletter">
