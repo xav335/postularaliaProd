@@ -19,6 +19,7 @@
 	<head>
 		<title>Posturalia - Votre Salle De Sport à Pau</title>
 		<?php include('inc/meta.php'); ?>
+		<?php include('inc/slideshow2.php'); ?>
 	</head>
 	
 	<body>
@@ -115,7 +116,14 @@
 					</div>
 				</div>
 			</section>
-			
+<div class="row">
+	<div class="large-12 medium-12 small-12 columns">
+        <div  id="demo-1" data-zs-src='["img/post1.jpg", "img/post2.jpg", "img/post3.jpg"]' data-zs-overlay="false" data-zs-bullets="false" data-zs-speed="8000" data-zs-interval="5000" data-zs-switchSpeed="800">
+		  <div class="demo-inner-content">
+		  </div>
+	   </div>
+    </div>
+ </div>
 			
 			<section id="contact">	
 				<div class="row" data-equalizer>

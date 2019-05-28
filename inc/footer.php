@@ -36,5 +36,5 @@
 				</form>
 				<a class="lblanc" href="mentions.php"><b>Mentions légales</b></a>
 			</div>
-			
+			<script type="text/javascript" src="js/jquery.zoomslider.min.js"></script>
 			

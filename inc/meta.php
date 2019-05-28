@@ -22,6 +22,8 @@
 		<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		
+		
+		<script src="js/vendor/jquery.js"></script>
 		<link href='https://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="/css/foundation.css">
 		<link rel="stylesheet" href="/js/vendor/swiper/css/swiper.min.css">
@@ -29,3 +31,8 @@
 		<link rel="stylesheet" href="/js/vendor/fancybox/jquery.fancybox.css?v=2.1.5" />
 		<link rel="stylesheet" href="/js/vendor/fancybox/jquery.fancybox-buttons.css?v=1.0.5" />
 		<link rel="stylesheet" href="/js/vendor/fancybox/jquery.fancybox-thumbs.css?v=1.0.7" />
+		
+		
+		<link rel="stylesheet" type="text/css" href="css/zoomslider.css" />
+	   <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
+	   <link rel="stylesheet" type="text/css" href="css/zoomsliderCusto.css" />
