@@ -1,5 +1,5 @@
 
-    <script type="text/javascript" src="http://www.3ginformatica.com.br/includes/cms/image-slider.slider/js/jssor.slider-22.0.6.min.js"></script>
+    <script type="text/javascript" src="js/jssor.slider-22.0.6.min.js"></script>
 
     <script>
         var _SlideshowTransitionC = {};
