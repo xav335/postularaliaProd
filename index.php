@@ -23,7 +23,7 @@
 	</head>
 	
 	<body>
-		
+		<script src="https://apipro.masalledesport.com/widget/11818/js?configFrom=11818"></script>
 		<main>
 			
 			<?php include('inc/header.php'); ?>
