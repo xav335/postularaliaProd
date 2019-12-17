@@ -46,6 +46,7 @@ header nav li:hover a:after, header nav li.active a:after {content:'';display:bl
 .page-livre-d-or #top-of-page {background-image:url('../img/bg-livre-d-or.jpg');}
 .page-seminaires #top-of-page {background-image:url('../img/bg-seminaires-2.jpg');}
 .page-actualite #top-of-page {background-image:none;text-align:center;}
+.page-salle #top-of-page {background-image:url('../img/bg-seminaires.jpg');}
 
 .page-livre-d-or h4 {font-family:'Nothing You Could Do',cursive;font-size:24px;text-transform:none;}
 

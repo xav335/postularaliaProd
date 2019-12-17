@@ -170,7 +170,7 @@
 			
 			$(document).ready(function(){
 				
-				$('nav li:nth-child(6)').addClass('active');
+				$('nav li:nth-child(7)').addClass('active');
 				
 				// ---- Validation du formulaire ---------------------------- //
 				if ( 1 == 1 ) {

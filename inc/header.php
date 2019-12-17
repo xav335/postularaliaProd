@@ -18,6 +18,7 @@
 						<li><a href="/">Accueil</a></li>
 						<li><a href="presentation.php">Présentation</a></li>
 						<li><a href="cours.php">Cours</a></li>
+						<li><a href="salle.php">Salle / Tarifs</a></li>
 						<li><a href="actualite.php">Actus</a></li>
 						<li><a href="livre-d-or.php">Livre d'or</a></li>
 						<li><a href="contact.php">Contact</a></li>

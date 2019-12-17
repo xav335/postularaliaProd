@@ -191,7 +191,7 @@
 			
 			$(document).ready(function(){
 				
-				$('nav li:nth-child(5)').addClass('active');
+				$('nav li:nth-child(6)').addClass('active');
 				
 				// ---- Validation du formulaire ---------------------------- //
 				if ( 1 == 1 ) {

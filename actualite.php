@@ -86,7 +86,7 @@
 		
 		<script>
 			$(document).ready(function(){
-				$('nav li:nth-child(4)').addClass('active');
+				$('nav li:nth-child(5)').addClass('active');
 			});
 		</script>
 	</body>
