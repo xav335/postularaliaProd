@@ -58,14 +58,14 @@ header nav li:hover a:after, header nav li.active a:after {content:'';display:bl
 .disciplines a {color:#fff;text-decoration: underline;}
 .disciplines {background:#f0efee;padding:50px 0;}
 .discipline {background:url('../img/bg-cardio.png') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
-.discipline span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.8);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.discipline span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.6);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .discipline span h3 {font-size:22px;padding-top:75px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .discipline span p {display:block;max-height:0;max-width:210px;font-weight:bold;font-size:13px;overflow:hidden;margin:0 auto;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .discipline:hover {padding:0;}
 .discipline:hover > span {background:rgba(28, 174, 227, 0.9);width:305px;height:305px;}
 .discipline:hover span h3 {padding-top:50px;color:#fff;}
 .discipline:hover > span p {max-height:200px;color:#fff;}
-.disciplines .columns:nth-child(2) .discipline {background-image:url('../img/bg-pilates.jpg');}
+.disciplines .columns:nth-child(2) .discipline {background-image:url('../img/bg-posture.jpg');}
 .disciplines .columns:nth-child(2) .discipline span h3 {padding-top:68px;}
 .disciplines .columns:nth-child(2) .discipline:hover > span h3 {padding-top:40px;}
 .disciplines .columns:nth-child(3) .discipline {background-image:url('../img/technogym-8.jpg');}
@@ -75,7 +75,7 @@ header nav li:hover a:after, header nav li.active a:after {content:'';display:bl
 #types-de-cours h2:first-line {font-size:72px;}
 #types-de-cours h2 span {font-size:13px;}
 .types-de-cours {background:#f0efee;padding:50px 0;}
-.cours {background:url('../img/bg-pilates.jpg') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
+.cours {background:url('../img/bg-posture.jpg') center center no-repeat;background-size:cover;text-align:center;width:305px;height:305px;border-radius:50%;margin:0 auto;display:block;padding-top:55px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .cours span {overflow:hidden;display:block;width:200px;height:200px;border-radius:50%;margin:0 auto;background:rgba(255, 255, 255, 0.8);-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .cours span h3 {font-size:24px;padding-top:75px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}
 .cours span p {display:block;max-height:0;max-width:210px;font-size:12px;overflow:hidden;margin:0 auto;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-ms-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;}

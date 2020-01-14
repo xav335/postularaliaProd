@@ -84,14 +84,19 @@
 			
 			<section id="types-de-cours">
 				<div class="row">
-					<div class="large-6 medium-6 small-12 columns">
+					<div class="large-4 medium-4 small-12 columns">
 						<h3>EQUILIBRE POSTURAL</h3>
 						<p>
 						  Des cours vidéo de gainage !<br><br>
 						  Stretching et abdos-fessiers font partie intégrante de l'approche posturale du concept.
 						</p>  
 					</div>
-					<div class="large-6 medium-6 small-12 columns">
+					<div class="large-4 medium-4 small-12 columns" data-equalizer-watch>
+						<div class="">
+							<img src="img/IMG_8691.jpg" />
+						</div>
+					</div>
+					<div class="large-4 medium-4 small-12 columns">
 					    <h3>MUSCULATION</h3>
 						<p>
                             Là encore l’approche posturale est déterminante. <br><br>
