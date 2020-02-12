@@ -92,7 +92,7 @@
 								<span>
 									<h3>
 										Equilibre<br/>
-										posturale
+										postural
 									</h3>
 									<p>
 									   Des conseils et une prise en charge spécifique pour le "mal&nbsp;au&nbsp;dos" ; les déséquilibres posturaux ; 
