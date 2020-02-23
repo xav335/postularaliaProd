@@ -8,8 +8,8 @@
 	
 	$contact = new Contact();
 	
-	$mon_action = $_POST[ "mon_action" ];
-	$anti_spam = $_POST[ "as" ];
+	$mon_action = isset($_POST['mon_action']) ? $_POST['mon_action'] : NULL;
+	$anti_spam = isset($_POST['as']) ? $_POST['as'] : NULL;
 	//print_pre( $_POST );
 	
 	$affichage_success = "wait";
